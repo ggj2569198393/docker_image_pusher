@@ -1,1 +1,2 @@
 mysql
+openjdk:21-jdk-slim
