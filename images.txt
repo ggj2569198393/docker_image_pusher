@@ -1,4 +1,1 @@
-mysql
-openjdk:21-jdk-slim
-github.com/agnivade/levenshtein@v1.1.1
-github.com/go-playground/locales@v0.14.0
+github.com/air-verse/air@v1.52.3
