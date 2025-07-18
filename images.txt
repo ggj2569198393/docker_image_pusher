@@ -1,1 +1,1 @@
-github.com/air-verse/air@v1.52.3
+budtmo/docker-android:emulator_11.0
